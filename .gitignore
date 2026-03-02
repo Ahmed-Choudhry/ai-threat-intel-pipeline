@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+security_report_*.txt
+security_report_*.json

@@ -1,0 +1,9 @@
+2024-01-15 03:22:01 Failed login attempt for user 'admin' from IP 192.168.1.105
+2024-01-15 03:22:05 Failed login attempt for user 'admin' from IP 192.168.1.105
+2024-01-15 03:22:09 Failed login attempt for user 'admin' from IP 192.168.1.105
+2024-01-15 03:22:13 Failed login attempt for user 'admin' from IP 192.168.1.105
+2024-01-15 03:22:17 Successful login for user 'admin' from IP 192.168.1.105
+2024-01-15 03:25:44 User 'admin' accessed /etc/passwd
+2024-01-15 03:26:10 User 'admin' downloaded 500MB of data
+2024-01-15 08:00:01 Scheduled backup completed successfully
+2024-01-15 08:15:22 Normal user 'john' logged in from IP 10.0.0.5
